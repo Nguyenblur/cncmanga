@@ -30,7 +30,7 @@ function Slide({ data }) {
                             <h4 className="lg:text-3xl mobile:text-lg font-[600] text-[#fff] text-shadow">
                                 {data?.chaptersLatest ?
                                     `Chương ${data?.chaptersLatest?.[0]?.chapter_name}` :
-                                    'Truyện đang gặp lỗi!'
+                                    'Truyện sắp ra mắt!'
                                 }
                             </h4>
                             <h2 className="text-shadow lg:text-4xl mobile:text-xl font-[600] truncate text-[#10b981] my-[12px]">{data?.name}</h2>

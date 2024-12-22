@@ -1,7 +1,7 @@
 import { NavLink, useNavigate } from "react-router-dom";
 import { useContext, useEffect, useState } from "react";
 
-import logo from '../../assets/logo.png'
+import logo from '../../assets/cncmanga.png'
 import Login from "../components/Login";
 import Context from "../../state/Context";
 import User from "../components/User";
@@ -41,7 +41,7 @@ function NavBar() {
                         <img src={logo} alt="logo"/>
                     </NavLink>}
                 <NavLink to='/' className="lg:text-2xl mobile:text-xl text-[#10b981] font-[900]">
-                    PHOMANGA-V2
+                    CNCManga
                 </NavLink>
             </div>
             {width > 1024 &&

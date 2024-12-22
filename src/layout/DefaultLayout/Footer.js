@@ -17,7 +17,7 @@ function Footer() {
                         Nguồn truyện tranh
                         <a className='text-[#10b981] font-[600] ml-[8px] hover:underline' target="_blank" rel="noreferrer" href='https://otruyen.cc/'>otruyen.cc</a>
                     </h4>
-                    <p className='text-lg text-justify'>Tất cả truyện tranh đều được tổng hợp từ nhiều nguồn uy tín và đáng tin cậy nhằm mang đến cho bạn kho nội dung phong phú và chất lượng nhất. Chúng tôi luôn tôn trọng quyền sở hữu trí tuệ và cố gắng đảm bảo rằng tất cả các tác phẩm đều tuân thủ quy định về bản quyền. Nếu bạn là tác giả hoặc đại diện pháp lý và nhận thấy nội dung nào trên trang web vi phạm bản quyền, xin vui lòng liên hệ với chúng tôi. Chúng tôi cam kết sẽ xem xét và giải quyết vấn đề một cách nhanh chóng và hợp lý, đảm bảo quyền lợi chính đáng của tất cả các bên liên quan.</p>
+                    <p className='text-lg text-justify'>Đây chỉ là sản phẩm để học hỏi, không vì bất cứ lợi nhuận nào. Tất cả truyện tranh đều được tổng hợp từ nhiều nguồn uy tín và đáng tin cậy nhằm mang đến cho bạn kho nội dung phong phú và chất lượng nhất. Chúng tôi luôn tôn trọng quyền sở hữu trí tuệ và cố gắng đảm bảo rằng tất cả các tác phẩm đều tuân thủ quy định về bản quyền. Nếu bạn là tác giả hoặc đại diện pháp lý và nhận thấy nội dung nào trên trang web vi phạm bản quyền, xin vui lòng liên hệ với chúng tôi. Chúng tôi cam kết sẽ xem xét và giải quyết vấn đề một cách nhanh chóng và hợp lý, đảm bảo quyền lợi chính đáng của tất cả các bên liên quan.</p>
                 </div>
                 <div className='lg:w-[25%] mobile:w-full text-[#fff]'>
                     <h4 className='text-2xl font-[600] mb-[24px]'>
